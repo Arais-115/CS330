@@ -1,4 +1,9 @@
-# CS330
+# CS330 - Computational Graphics and Visualization
+
+Built realistic, interactive three-dimensional objects through the use of application programming interface (API) libraries.
+
+Below is a questionnaire required for coursework:
+
 Note: Uploading the entire .zip archive was not allowed as it was too large. I have uploaded the Source.cpp instead
 
 1.	How do I approach designing software? 
